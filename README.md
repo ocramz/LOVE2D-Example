@@ -5,6 +5,8 @@ Example workflow project for LD collab.
 
 Hi woof! I have absolutely no idea how much you know about programming etc, so I decided to hedge my bets and explain everything like you're 5 years old or something. Please understand.
 
+Click "Clone to Desktop" to check out a copy of the project.
+
 #### Running the Game
 
 It's really simple to package up love2d games for distribution when the time comes, but for running a game during development you just drag and drop the game folder onto a love2d shortcut. The game folder is the one that contains main.lua, so in this case it'll be LOVE2D-Example...
